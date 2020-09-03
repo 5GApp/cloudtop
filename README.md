@@ -1,5 +1,5 @@
 # cloudtop
-a unify user-interface to cloud-native application
+a unify user-interface to cloud-native SaaS applications
 
 
 ### License
