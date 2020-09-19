@@ -1,5 +1,5 @@
 # cloudtop
-unify user-interface to cloud-native SaaS applications as interactive incremental video streaming
+unify graphical user interface to cloud-native SaaS applications as interactive incremental video streaming
 
 
 ### License
