@@ -4,6 +4,6 @@ unify GUI to cloud-native SaaS applications as interactive incremental video str
 
 ### License
 
-(The Apache 2.0 License)
+(The MIT License)
 
 Copyright (c) 2020 Tom Zhou(appnet.link@gmail.com)
