@@ -1,0 +1,6 @@
+[submodule "zvnc"]
+	path = zvnc
+	url = https://github.com/5GApp/zvnc
+[submodule "peer-vnc"]
+	path = peer-vnc
+	url = https://github.com/InstantWebP2P/peer-vnc
